@@ -21,3 +21,6 @@ It is a News App, I used Retrofit, Room, Coroutine, Paging 3,Web view, MVVM Arch
 * Read Breaking News
 * Search News
 * Save News Articles
+
+# Contact
+Linkedin - www.linkedin.com/in/muhammad-shoaib-986728297
