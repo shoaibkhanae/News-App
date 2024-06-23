@@ -3,3 +3,21 @@
 It is a News App, I used Retrofit, Room, Coroutine, Paging 3,Web view, MVVM Architecture, Material 3, Live data and navigation Components.
 
 # Build with 🔨
+* Kotlin
+* Views
+* view Binding
+* Data binding
+* Material 3
+* Single Activity Pattern
+* Web view
+* Room
+* Retrofit
+* MVVM + Clean Architecture
+* Coroutines
+* Flow
+* Paging 3
+
+# Features
+* Read Breaking News
+* Search News
+* Save News Articles
