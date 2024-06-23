@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="side_margin">16dp</dimen>
+    <dimen name="image_width">150dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="more_margin">24dp</dimen>
+    <dimen name="base_margin">8dp</dimen>
+    <dimen name="hay_margin">10dp</dimen>
+    <dimen name="fab_margin">48dp</dimen>
+</resources>
